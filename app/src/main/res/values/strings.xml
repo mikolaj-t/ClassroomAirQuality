@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jakość Powietrza</string>
+    <string name="action_settings">Settings</string>
+    <string name="sensor_data">Dane z czujnika</string>
+    <string name="co2">CO2</string>
+    <string name="temperature">temperatura</string>
+    <string name="humidity">wilgotność</string>
+    <string name="air_pressure">ciś. atm.</string>
+    <string name="open_window">OTWÓRZ OKNO</string>
+</resources>
